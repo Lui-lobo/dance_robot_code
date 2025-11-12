@@ -73,3 +73,7 @@ Acessar no Google Drive no Link:
 Assistir no YouTube via o link:
 - https://youtube.com/shorts/aP8Fjj27wiQ?feature=share
 
+## Post do linkedin do robô:
+Acessar no linkedin no link:
+- https://www.linkedin.com/posts/lui-lobo_quando-engenharia-e-criatividade-se-encontram-activity-7394171491162091520-gJX_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD_J97kB0OVx97R7ob9NihENc8BEyWDjrFQ
+
