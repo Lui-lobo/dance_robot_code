@@ -48,7 +48,7 @@ Durante a execução, o robô:
 O código principal se encontra no arquivo:
 
 ```bash
-dance_robot.py
+main.py
 ```
 
 # 💡 Dificuldades Encontradas
